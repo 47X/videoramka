@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">videoramka</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">skajp intent</string>
+    <string name="dupa">dupa</string>
+
+</resources>
